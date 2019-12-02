@@ -24,9 +24,8 @@ It is possible to answer this test using SQL alone. If this is your preference, 
 
 # Submission
 
-Please return your code and results to osman.yilmaz@tate.org.uk.  
+Please return your code and results to mathilde@jolimoi.com .  
 
-The end-date for submissions is midnight on Tuesday 22 May 2018.  
 
 Please do not return the database via email (it's quite large!)
 
@@ -53,9 +52,9 @@ If you are comfortable in more than one, please feel free to share one or more s
 * Which artist in this data set lived the longest?
 * Who are the top 10 artists by the number of artworks?
 * Which artist is created the most artwork by total surface area?
-* Did any artists have artwork acquired during their lifetime?
-* Please review the quality of the data, and present any issues
-* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
+* Optionnal : Did any artists have artwork acquired during their lifetime?
+* Optionnal : Please review the quality of the data, and present any issues
+* Optionnal : Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
 
 # The test submission
 
