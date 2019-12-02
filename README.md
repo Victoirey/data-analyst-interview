@@ -61,3 +61,5 @@ If you are comfortable in more than one, please feel free to share one or more s
 Our preferred response is an annotated Jupyter notebook. However, clear responses using Excel or any other text editor will be accepted, provided both the response to each question and your workings are demonstrated.
 
 # Good luck!
+
+Thanks to osman.yilmaz@tate.org.uk to have created this test.
