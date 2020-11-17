@@ -58,7 +58,7 @@ If you are comfortable in more than one, please feel free to share one or more s
 
 # The test submission
 
-Our preferred response is an annotated Jupyter notebook. However, clear responses using Excel or any other text editor will be accepted, provided both the response to each question and your workings are demonstrated.
+Clear responses using Excel or any other text editor will be accepted or Jupiter Notebook, provided both the response to each question and your workings are demonstrated.
 
 # Good luck!
 
