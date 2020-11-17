@@ -3,7 +3,11 @@ This is the repository containing instructions and base data for a technical tes
 
 # Set up
 
-To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate.
+
+## SQL
+
+It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
+
 
 ## Python
 If you haven't used Jupyter before, here's how to get yourself set up:
@@ -16,12 +20,6 @@ If you'd like to use **R** to respond to this test, then if you don't know how t
 https://www.datacamp.com/community/blog/jupyter-notebook-r
 
 If you would prefer to use a different tool, please feel free.
-
-## SQL
-
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
-
-
 # Submission
 
 Please return your code and results to mathilde@jolimoi.com .  
