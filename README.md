@@ -24,7 +24,7 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 # The Test!
 
-We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
+We'd like you to answer the following questions, using SQL
 
 If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
 
