@@ -1,25 +1,6 @@
 # Tate Data Analyst Technical Test
 This is the repository containing instructions and base data for a technical test for analysts 
 
-# Set up
-
-
-## SQL
-
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
-
-
-## Python
-If you haven't used Jupyter before, here's how to get yourself set up:
-
-https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
-
-## R
-If you'd like to use **R** to respond to this test, then if you don't know how to set it up locally, this link gives instructions:
-
-https://www.datacamp.com/community/blog/jupyter-notebook-r
-
-If you would prefer to use a different tool, please feel free.
 # Submission
 
 Please return your code and results to mathilde@jolimoi.com .  
@@ -50,9 +31,9 @@ If you are comfortable in more than one, please feel free to share one or more s
 * SQL : Which artist in this data set lived the longest?
 * SQL : Who are the top 10 artists by the number of artworks?
 * SQL Which artist is created the most artwork by total surface area?
-* Optionnal (Python, R or SQL) : Did any artists have artwork acquired during their lifetime?
-* Optionnal : Please review the quality of the data, and present any issues
-* Optionnal (Python, R or SQL)  : Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
+* SQL : Did any artists have artwork acquired during their lifetime?
+* Please review the quality of the data, and present any issues
+* SQL : Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
 
 # The test submission
 
