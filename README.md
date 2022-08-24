@@ -3,7 +3,7 @@ This is the repository containing instructions and base data for a technical tes
 
 # Submission
 
-Please return your code and results to mathilde@jolimoi.com .  
+Please return your code and results to alexis.b@jolimoi.com .  
 
 
 Please do not return the database via email (it's quite large!)
